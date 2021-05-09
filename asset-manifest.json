@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/readMind/static/css/main.43f1697c.chunk.css",
+    "main.js": "/readMind/static/js/main.4bfe5501.chunk.js",
+    "main.js.map": "/readMind/static/js/main.4bfe5501.chunk.js.map",
+    "runtime-main.js": "/readMind/static/js/runtime-main.9a89f2f1.js",
+    "runtime-main.js.map": "/readMind/static/js/runtime-main.9a89f2f1.js.map",
+    "static/js/2.19a4cbd0.chunk.js": "/readMind/static/js/2.19a4cbd0.chunk.js",
+    "static/js/2.19a4cbd0.chunk.js.map": "/readMind/static/js/2.19a4cbd0.chunk.js.map",
+    "static/js/3.6a18732b.chunk.js": "/readMind/static/js/3.6a18732b.chunk.js",
+    "static/js/3.6a18732b.chunk.js.map": "/readMind/static/js/3.6a18732b.chunk.js.map",
+    "index.html": "/readMind/index.html",
+    "static/css/main.43f1697c.chunk.css.map": "/readMind/static/css/main.43f1697c.chunk.css.map",
+    "static/js/2.19a4cbd0.chunk.js.LICENSE.txt": "/readMind/static/js/2.19a4cbd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a89f2f1.js",
+    "static/js/2.19a4cbd0.chunk.js",
+    "static/css/main.43f1697c.chunk.css",
+    "static/js/main.4bfe5501.chunk.js"
+  ]
+}
