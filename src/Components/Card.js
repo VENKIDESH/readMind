@@ -35,8 +35,8 @@ function card(props) {
 }
 
 const fontStyle = {
-  width:'55px',
-  height:'55px',
+  width:'80%',
+  height:'7vh',
   background: 'linear-gradient(90deg, rgba(0, 65, 106, 0.089) 0%, rgba(228, 229, 230, 0.089) 100%)',
   borderRadius: '20px',
   boxShadow: 'inset 6.66667px -6.66667px 6.66667px rgba(87, 112, 128, 0.089), inset -6.66667px 6.66667px 6.66667px rgba(255, 255, 255, 0.089)',

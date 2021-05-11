@@ -14,7 +14,7 @@ function Number(props) {
         gridTemplateColumns:
           "auto auto auto auto auto auto auto auto auto auto auto auto",
         // width:'60%',
-        height:'650px',
+        height:'80vh',
         alignContent:'space-evenly'  
       }}
     >

@@ -45,7 +45,7 @@ function Home(props) {
   } else {
     return (
       <div style={{display:"flex"}}>
-      <div style={{width:'835px',marginLeft:"90px"}}>
+      <div style={{width:'53%',marginLeft:"7%"}}>
         <Number answer={answer} />
       </div>
       <div>

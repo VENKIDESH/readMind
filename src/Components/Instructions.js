@@ -5,11 +5,11 @@ function Instructions(props) {
     <div style={outer}>
       <div style={inner}>
         <div
-          style={{ fontSize: "25px", fontWeight: "bold", marginTop: "10px" }}
+          style={{ fontSize: "1.5625rem", fontWeight: "bold", marginTop: "3%" }}
         >
           Game Instructions
         </div>
-        <div style={{ marginTop: "20px", fontSize: "20px", color: "#303030" }}>
+        <div style={{ marginTop: "4%", fontSize: "1.25rem", color: "#303030" }}>
           1. Choose any two digit number between 1 and 100.
           <br /> <i>Example: 25</i>
           <br />
@@ -36,8 +36,8 @@ function Instructions(props) {
             borderRadius: "100%",
             background:
               "linear-gradient(90deg, rgba(229, 93, 135, 0.1) 0%, rgba(95, 195, 228, 0.1) 100%)",
-            marginTop: "20px",
-            marginLeft: "200px",
+            marginTop: "4%",
+            marginLeft: "37%",
             alignContent: "center",
             padding: "1px",
             boxShadow:
@@ -47,7 +47,7 @@ function Instructions(props) {
           <div onClick={props.ansPageHandler()}
             style={{
               marginTop: "45px",
-              fontSize: "25px",
+              fontSize: "1.5625rem",
               fontFamily: "sans-serif",
               background: "-webkit-linear-gradient(90deg, #E74C3C, #000000)",
               webkitBackgroundClip: "text",
@@ -67,16 +67,16 @@ function Instructions(props) {
 
 const outer = {
   background: "#eee",
-  width: "544px",
-  height: "585px",
-  marginTop: "25px",
+  width: "100%",
+  height: "78vh",
+  marginTop: "2vh",
   padding: "1px",
 };
 const inner = {
-  marginTop: "10px",
+  marginTop: "1.5vh",
   marginLeft: "10px",
-  width: "524px",
-  height: "565px",
+  width: "95%",
+  height: "75vh",
   padding: "1px",
   background: "linear-gradient(90deg, #9796F0 10%, #FBC7D4 100%)",
 };

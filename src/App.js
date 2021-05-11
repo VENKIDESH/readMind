@@ -25,7 +25,7 @@ function App() {
 }
 
 const fontStyle = {
-  fontSize: "80px",
+  fontSize: "5rem",
   fontWeight: 'bold',
   background: '-webkit-linear-gradient(90deg, #000000, #E74C3C)',
   webkitBackgroundClip: 'text',
